@@ -11,6 +11,10 @@ class obj <T>{ // Generic class
         System.out.println(this.name);
         System.out.println(this.roll_no);
     }
+    static <T> void printanything(T n){
+        // Generic function
+        System.out.println(n.getClass() + " " + n.toString());
+    }
 
     // Genrics can be used to accept any type of data in paramete / class / List.
     //to use generic use <T>
@@ -21,5 +25,6 @@ public class main {
         // call above class 
         obj <Integer> n = new obj <Integer> (1,"yash");
         n.print();
+        n.printanything("Yash");
     }
 }
