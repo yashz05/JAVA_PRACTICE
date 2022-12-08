@@ -10,11 +10,13 @@ class p1{
 
 class p2 extends p1 {
     
+    
     int roll_no = 10;
 }
 public class main {
     public static void main(String[] args) {
         p2 p = new p2();
+
         p.setname("Yash");
         System.out.println(p.name);//parent class
         System.out.println(p.roll_no); // child class
