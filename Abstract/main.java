@@ -1,4 +1,4 @@
-package interfaces;
+package Abstract;
 
 // Why And When To Use Abstract Classes and Methods?
 // To achieve security - hide certain details and only show the important details of an object.
