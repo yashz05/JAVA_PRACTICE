@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch main",
             "request": "launch",
+            "mainClass": "Custom_exception.main",
+            "projectName": "java orac_e9419411"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
             "mainClass": "Collections.main",
             "projectName": "java orac_e9419411"
         },
