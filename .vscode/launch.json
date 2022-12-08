@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch main",
             "request": "launch",
+            "mainClass": "Generics.main",
+            "projectName": "java orac_e9419411"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
             "mainClass": "Inheritance.main",
             "projectName": "java orac_e9419411"
         },
