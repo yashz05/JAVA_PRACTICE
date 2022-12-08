@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch main",
             "request": "launch",
+            "mainClass": "interfaces.main",
+            "projectName": "java orac_e9419411"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
             "mainClass": "pck_school.main",
             "projectName": "java orac_e9419411"
         },
